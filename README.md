@@ -1,5 +1,5 @@
 # Music Player
-## Overview
+
 This Music Player is a simple desktop application built using Python's Tkinter library for the GUI and Pygame for audio playback. It allows users to browse, play, pause, and navigate through their music collection in an intuitive interface.
 
 ## Features
@@ -17,7 +17,7 @@ This Music Player is a simple desktop application built using Python's Tkinter l
 * OS and FNMatch: For file handling and pattern matching.
 
 ## Installation
-### Clone the repository:
+### Clone the repository
 
 ### Install required packages: 
 Make sure you have Python installed. You can create a virtual environment and install the necessary packages:
@@ -43,15 +43,13 @@ C:\Users\shrad\Desktop\Music Player
 python MusicPlayer.py
 ```
 
-###Use the interface to:
+### Use the interface to:
 * Select a song from the list.
 * Control playback with the Play, Pause, Stop, Next, and Prev buttons.
 * Adjust the volume using the volume slider.
   
 ## Screenshots
-
-
-
+![Application Windoow](https://github.com/ShraddhaSatpute/Music-Player-using-Python/commit/f182fe3473cc35e77da88990634678e99005ab7a)
 
 ## Acknowledgments
 Thank you to the Pygame community for their excellent library and support.
